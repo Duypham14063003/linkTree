@@ -16,12 +16,7 @@ Dự án này là một trang “Link-in-bio” (tương tự Linktree) cho phé
 - [Tính năng](#tính-năng)
 - [Yêu cầu hệ thống](#yêu-cầu-hệ-thống)
 - [Cài đặt](#cài-đặt)
-- [Cấu trúc thư mục](#cấu-trúc-thư-mục)
-- [Cách chạy dự án](#cách-chạy-dự-án)
-- [Hướng dẫn sử dụng](#hướng-dẫn-sử-dụng)
-- [Đóng góp](#đóng-góp)
-- [Giấy phép](#giấy-phép)
-- [Thông tin liên hệ](#thông-tin-liên-hệ)
+
 
 ## Tính năng
 
